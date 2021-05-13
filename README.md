@@ -4,7 +4,6 @@ An Simple python script to control vpn connection [vpngate.net]
 # ScreenShots:
 
 <a>
-  <img src="https://i.ibb.co/YkWQkst/Screenshot-from-2021-05-13-10-39-03.png">
   <img src="https://i.ibb.co/jbXKCnk/Screenshot-from-2021-05-13-10-42-03.png">
   <img src="https://i.ibb.co/fNtpGNq/Screenshot-from-2021-05-13-10-42-15.png">
 </a>
